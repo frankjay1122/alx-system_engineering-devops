@@ -4,3 +4,4 @@ moves a file
 delete a file
 deletes a directory
 returns to previous directory
+print type of file
