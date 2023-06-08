@@ -8,3 +8,4 @@ print type of file
 script 14 copies html files
 script 11 prints list in long format including /boot
 script 133 creates a symbolic link
+script 15 moves files beginning with a capital letter
