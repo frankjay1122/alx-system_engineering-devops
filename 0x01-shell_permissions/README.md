@@ -9,3 +9,5 @@ script 8 grants permission to other users only
 script 7 grants permission to everybody
 script 9 grants read, write and execution permission to owner only
 script 10 sets the mode of file hello as that of file olleh
+script 14 changes owner and group
+script 15 dos symbolic links
